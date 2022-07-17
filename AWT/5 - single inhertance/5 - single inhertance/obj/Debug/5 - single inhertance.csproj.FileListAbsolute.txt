@@ -1,0 +1,11 @@
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\bin\Debug\5 - single inhertance.exe.config
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\bin\Debug\5 - single inhertance.exe
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\bin\Debug\5 - single inhertance.pdb
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\5 - single inhertance.csproj.AssemblyReference.cache
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\5 - single inhertance.csproj.SuggestedBindingRedirects.cache
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\_5___single_inhertance.Form1.resources
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\_5___single_inhertance.Properties.Resources.resources
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\5 - single inhertance.csproj.GenerateResource.cache
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\5 - single inhertance.csproj.CoreCompileInputs.cache
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\5 - single inhertance.exe
+C:\ARUN\Lab\AWT\5 - single inhertance\5 - single inhertance\obj\Debug\5 - single inhertance.pdb

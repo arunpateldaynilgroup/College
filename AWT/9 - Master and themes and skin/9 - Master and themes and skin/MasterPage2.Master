@@ -1,0 +1,6 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage2.master.cs" Inherits="_9___Master_and_themes_and_skin.MasterPage2" MasterPageFile="~/MasterPage.Master" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server"></asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+    This is a nested master page!
+</asp:Content>

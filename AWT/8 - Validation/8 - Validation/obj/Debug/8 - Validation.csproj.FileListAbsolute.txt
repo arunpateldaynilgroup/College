@@ -1,0 +1,74 @@
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\8 - Validation.dll.config
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\8 - Validation.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\8 - Validation.pdb
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\csc.exe
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\csc.exe.config
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\csc.rsp
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\csi.exe
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\csi.exe.config
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\csi.rsp
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.AppContext.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Collections.Immutable.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Console.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Globalization.Calendars.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.IO.Compression.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.IO.FileSystem.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Net.Http.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Net.Sockets.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Reflection.Metadata.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.ValueTuple.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Xml.XPath.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\vbc.exe
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\vbc.exe.config
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\vbc.rsp
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\VBCSCompiler.exe
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\roslyn\VBCSCompiler.exe.config
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Antlr3.Runtime.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\AspNet.ScriptManager.jQuery.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.Web.Infrastructure.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Newtonsoft.Json.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\System.Web.Optimization.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\WebGrease.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\System.Web.Optimization.xml
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Newtonsoft.Json.xml
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Antlr3.Runtime.pdb
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\obj\Debug\8 - Validation.csproj.AssemblyReference.cache
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\obj\Debug\8 - Validation.csproj.CoreCompileInputs.cache
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\obj\Debug\8 - Validation.csproj.CopyComplete
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\obj\Debug\8 - Validation.dll
+C:\ARUN\Lab\AWT\8 - Validation\8 - Validation\obj\Debug\8 - Validation.pdb

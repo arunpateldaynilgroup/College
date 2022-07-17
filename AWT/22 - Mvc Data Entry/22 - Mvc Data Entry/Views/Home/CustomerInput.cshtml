@@ -1,0 +1,30 @@
+﻿@model _22___Mvc_Data_Entry.Models.Customer
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/Content/StyleSheet1.css" />
+    <title>CustomerInput</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm()) {
+            <p>Customer ID: @Html.TextAreaFor(x => x.CustID)</p> 
+            <p>Customer Name: @Html.TextAreaFor(x => x.CustName)</p> 
+            <p>Customer Address: @Html.TextAreaFor(x => x.CustAdd)</p>
+        @Html.ValidationSummary()
+            <input id="Submit1" type="submit" value="submit" />
+        } 
+        @*
+            Customer ID: <input id="Text1" type="text" /> 
+            Customer Name: <input id="Text2" type="text" />
+            Customer Address:<input id="Text3" type="text" />
+        *@
+    </div>
+ </body>
+ </html>

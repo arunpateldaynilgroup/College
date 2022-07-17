@@ -1,0 +1,11 @@
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\bin\Debug\4 - employee.exe.config
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\bin\Debug\4 - employee.exe
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\bin\Debug\4 - employee.pdb
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\4 - employee.csproj.AssemblyReference.cache
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\4 - employee.csproj.SuggestedBindingRedirects.cache
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\_4___employee.Form1.resources
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\_4___employee.Properties.Resources.resources
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\4 - employee.csproj.GenerateResource.cache
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\4 - employee.csproj.CoreCompileInputs.cache
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\4 - employee.exe
+C:\ARUN\Lab\AWT\4 - employee\4 - employee\obj\Debug\4 - employee.pdb

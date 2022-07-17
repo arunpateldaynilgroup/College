@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Parameterized Stored Procedure", "14 - Parameterized Stored Procedure\14 - Parameterized Stored Procedure.csproj", "{966AA161-7CDA-4C42-8DF2-533C4D37679B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966AA161-7CDA-4C42-8DF2-533C4D37679B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966AA161-7CDA-4C42-8DF2-533C4D37679B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966AA161-7CDA-4C42-8DF2-533C4D37679B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966AA161-7CDA-4C42-8DF2-533C4D37679B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7CDDA0-1449-45A5-AA28-131CE61C0CDA}
+	EndGlobalSection
+EndGlobal

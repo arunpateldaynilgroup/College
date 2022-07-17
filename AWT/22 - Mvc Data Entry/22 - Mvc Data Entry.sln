@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - Mvc Data Entry", "22 - Mvc Data Entry\22 - Mvc Data Entry.csproj", "{B1AB1008-FDF2-4DD1-AF3A-6E5EC98D6AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AB1008-FDF2-4DD1-AF3A-6E5EC98D6AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AB1008-FDF2-4DD1-AF3A-6E5EC98D6AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AB1008-FDF2-4DD1-AF3A-6E5EC98D6AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AB1008-FDF2-4DD1-AF3A-6E5EC98D6AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CDFBCCF-53C4-49E7-8085-228EFD82E4A4}
+	EndGlobalSection
+EndGlobal

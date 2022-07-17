@@ -1,0 +1,11 @@
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\bin\Debug\2-Bank.exe.config
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\bin\Debug\2-Bank.exe
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\bin\Debug\2-Bank.pdb
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\2-Bank.csproj.AssemblyReference.cache
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\2-Bank.csproj.SuggestedBindingRedirects.cache
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\_2_Bank.Form1.resources
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\_2_Bank.Properties.Resources.resources
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\2-Bank.csproj.GenerateResource.cache
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\2-Bank.csproj.CoreCompileInputs.cache
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\2-Bank.exe
+C:\ARUN\Lab\AWT\2-Bank\2-Bank\obj\Debug\2-Bank.pdb

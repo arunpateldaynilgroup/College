@@ -1,0 +1,61 @@
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\11 - MCQ.dll.config
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\11 - MCQ.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\11 - MCQ.pdb
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\csc.exe
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\csc.exe.config
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\csc.rsp
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\csi.exe
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\csi.exe.config
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\csi.rsp
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.AppContext.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Collections.Immutable.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Console.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Globalization.Calendars.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.IO.Compression.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.IO.FileSystem.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Net.Http.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Net.Sockets.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Reflection.Metadata.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.ValueTuple.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Xml.XPath.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\vbc.exe
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\vbc.exe.config
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\vbc.rsp
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\VBCSCompiler.exe
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\roslyn\VBCSCompiler.exe.config
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\System.Data.SqlClient.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\System.Data.SqlClient.xml
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\obj\Debug\11 - MCQ.csproj.AssemblyReference.cache
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\obj\Debug\11 - MCQ.csproj.CoreCompileInputs.cache
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\obj\Debug\11 - MCQ.csproj.CopyComplete
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\obj\Debug\11 - MCQ.dll
+C:\ARUN\Lab\AWT\11 - MCQ\11 - MCQ\obj\Debug\11 - MCQ.pdb

@@ -1,0 +1,7 @@
+C:\ARUN\Lab\AWT\20 - wcf service\20 - wcf service\bin\20 - wcf service.dll.config
+C:\ARUN\Lab\AWT\20 - wcf service\20 - wcf service\bin\20 - wcf service.dll
+C:\ARUN\Lab\AWT\20 - wcf service\20 - wcf service\bin\20 - wcf service.pdb
+C:\ARUN\Lab\AWT\20 - wcf service\20 - wcf service\obj\Debug\20 - wcf service.csproj.AssemblyReference.cache
+C:\ARUN\Lab\AWT\20 - wcf service\20 - wcf service\obj\Debug\20 - wcf service.csproj.CoreCompileInputs.cache
+C:\ARUN\Lab\AWT\20 - wcf service\20 - wcf service\obj\Debug\20 - wcf service.dll
+C:\ARUN\Lab\AWT\20 - wcf service\20 - wcf service\obj\Debug\20 - wcf service.pdb

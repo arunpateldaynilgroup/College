@@ -1,0 +1,11 @@
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\bin\Debug\7 - Registration Form.exe.config
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\bin\Debug\7 - Registration Form.exe
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\bin\Debug\7 - Registration Form.pdb
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\7 - Registration Form.csproj.AssemblyReference.cache
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\7 - Registration Form.csproj.SuggestedBindingRedirects.cache
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\_7___Registration_Form.Form1.resources
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\_7___Registration_Form.Properties.Resources.resources
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\7 - Registration Form.csproj.GenerateResource.cache
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\7 - Registration Form.csproj.CoreCompileInputs.cache
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\7 - Registration Form.exe
+C:\ARUN\Lab\AWT\7 - Registration Form\7 - Registration Form\obj\Debug\7 - Registration Form.pdb
